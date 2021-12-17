@@ -1,3 +1,6 @@
+## v1.5.0
+- Added separate swipe left & right actions, with animated icon shown on swipe (#36).
+
 ## v1.4.2
 - Added new translations:
     - Arabic: @afmbsr
